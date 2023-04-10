@@ -1,0 +1,30 @@
+h1 {color:blue;}
+h2 {color:brown;}
+
+h1 {font-size:350%;}
+h2 {font-size:250%;}
+h3 {font-size:200%;}
+h4 {font-size:200%;}
+h5 {font-size:200%;}
+h6 {font-size:200%;}
+h6 {font-size:200%;}
+h6 {font-size:200%;}
+
+#tilapia {margin-left:30%;}
+#pirarucu {margin-left:30%;}
+#sardinha {margin-left:25%;}
+#bacalhau {margin-left:30%;}
+#robalo {margin-left:30%;}
+#apapa {margin-left:30%;}
+
+#tilapia {width:40%;}
+#pirarucu {width:40%;}
+#bacalhau {width:40%;}
+#robalo {width:30%;}
+
+h1 {text-align:center;}
+h2 {text-align:center;}
+h3 {text-align:center;}
+h4 {text-align:center;}
+h5 {text-align:center;}
+h6 {text-align:center;}
